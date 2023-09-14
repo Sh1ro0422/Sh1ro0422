@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sh1ro0422
-- 👀 I’m interested in web develope
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning bun, elysiajs
 - <!---
   💞️ I’m looking to collaborate on ...
